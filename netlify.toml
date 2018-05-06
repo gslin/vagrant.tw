@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://zh.wikipedia.org/wiki/Vagrant"
+  status = 302
